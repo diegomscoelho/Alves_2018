@@ -1,0 +1,737 @@
+"","Target Name","#Plasmideos","#Morfologia","#Patch_clamp","variable","value"
+"1","CT cell#4","GFP Dsred","Fibroblastoide","Nao","CHAT",-0.650760368569117
+"2","CT cell#1","GFP Dsred","Fibroblastoide","Nao","CHAT",0.57970527447436
+"3","CT cell#3","GFP Dsred","Fibroblastoide","Nao","CHAT",1.21401191150071
+"4","CT cell#9","GFP Dsred","Fibroblastoide","Nao","CHAT",-0.44541197201598
+"5","CT cell#10","GFP Dsred","Fibroblastoide","Nao","CHAT",-1.93499828002104
+"6","CT cell#14","GFP Dsred","Fibroblastoide","Nao","CHAT",-0.693981139865422
+"7","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","CHAT",-0.138404160054306
+"8","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","CHAT",0.846942267277923
+"9","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","CHAT",1.08394476813079
+"10","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","CHAT",0.143645102031091
+"11","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","CHAT",-0.488835551268184
+"12","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","CHAT",-1.93621547761943
+"13","CT cell#22","Neurog2 + Sox2","None","Nao","CHAT",0.0710018198850796
+"14","CT cell#24","Neurog2 + Sox2","Alterado","Nao","CHAT",0.14120993276093
+"15","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","CHAT",0.221766353945185
+"16","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","CHAT",0.309424707119786
+"17","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","CHAT",0.414736876433562
+"18","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","CHAT",0.277364999306251
+"19","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","CHAT",0.515585084794201
+"20","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","CHAT",1.63241904189848
+"21","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","CHAT",-0.280443573954891
+"22","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","CHAT",1.23268051050792
+"23","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","CHAT",-2.1153881266979
+"24","CT cell#4","GFP Dsred","Fibroblastoide","Nao","PDGFRB",0.945972758178344
+"25","CT cell#1","GFP Dsred","Fibroblastoide","Nao","PDGFRB",-0.710234565204839
+"26","CT cell#3","GFP Dsred","Fibroblastoide","Nao","PDGFRB",1.52565565644084
+"27","CT cell#9","GFP Dsred","Fibroblastoide","Nao","PDGFRB",1.63487480673556
+"28","CT cell#10","GFP Dsred","Fibroblastoide","Nao","PDGFRB",-0.710234565204839
+"29","CT cell#14","GFP Dsred","Fibroblastoide","Nao","PDGFRB",0.681169164666349
+"30","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","PDGFRB",0.652113130404548
+"31","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","PDGFRB",-1.8106636621792
+"32","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","PDGFRB",1.03849974269839
+"33","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","PDGFRB",-0.710234565204839
+"34","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","PDGFRB",-0.710234565204839
+"35","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","PDGFRB",-1.65878806506561
+"36","CT cell#22","Neurog2 + Sox2","None","Nao","PDGFRB",-0.0699665039730348
+"37","CT cell#24","Neurog2 + Sox2","Alterado","Nao","PDGFRB",0.0670721365135513
+"38","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","PDGFRB",0.279739636081437
+"39","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","PDGFRB",0.777405781375607
+"40","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","PDGFRB",-0.710234565204839
+"41","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","PDGFRB",1.44982083771608
+"42","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","PDGFRB",-0.710234565204839
+"43","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","PDGFRB",0.879205667250692
+"44","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","PDGFRB",-0.710234565204839
+"45","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","PDGFRB",-0.710234565204839
+"46","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","PDGFRB",-0.710234565204839
+"47","CT cell#4","GFP Dsred","Fibroblastoide","Nao","SATB2",1.18230966296757
+"48","CT cell#1","GFP Dsred","Fibroblastoide","Nao","SATB2",-0.634328954799572
+"49","CT cell#3","GFP Dsred","Fibroblastoide","Nao","SATB2",1.54476534390014
+"50","CT cell#9","GFP Dsred","Fibroblastoide","Nao","SATB2",0.158217088632925
+"51","CT cell#10","GFP Dsred","Fibroblastoide","Nao","SATB2",-0.599965413824009
+"52","CT cell#14","GFP Dsred","Fibroblastoide","Nao","SATB2",1.17058257425245
+"53","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","SATB2",-0.837783323785427
+"54","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","SATB2",0.477036389003843
+"55","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","SATB2",0.881490902773824
+"56","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","SATB2",0.398762857581368
+"57","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","SATB2",-0.790056195090089
+"58","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","SATB2",0.353763587900327
+"59","CT cell#22","Neurog2 + Sox2","None","Nao","SATB2",-1.14242025425626
+"60","CT cell#24","Neurog2 + Sox2","Alterado","Nao","SATB2",0.322672029514523
+"61","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","SATB2",-1.4675119657151
+"62","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","SATB2",0.124126133804887
+"63","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","SATB2",2.08176550670519
+"64","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","SATB2",-0.271328109890145
+"65","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","SATB2",-0.924510929250063
+"66","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","SATB2",-1.08596543331531
+"67","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","SATB2",1.12967301233097
+"68","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","SATB2",-1.00060175731691
+"69","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","SATB2",-1.07069275212516
+"70","CT cell#4","GFP Dsred","Fibroblastoide","Nao","MAP2",0.289749090121043
+"71","CT cell#1","GFP Dsred","Fibroblastoide","Nao","MAP2",2.26112377815016
+"72","CT cell#3","GFP Dsred","Fibroblastoide","Nao","MAP2",1.02235149995332
+"73","CT cell#9","GFP Dsred","Fibroblastoide","Nao","MAP2",-0.46892095666671
+"74","CT cell#10","GFP Dsred","Fibroblastoide","Nao","MAP2",-0.81596306967924
+"75","CT cell#14","GFP Dsred","Fibroblastoide","Nao","MAP2",-0.206693649280254
+"76","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","MAP2",-0.459193827742341
+"77","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","MAP2",-0.564240586575826
+"78","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","MAP2",-2.3364154288809
+"79","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","MAP2",-0.523389316614777
+"80","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","MAP2",-0.0748015581326201
+"81","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","MAP2",0.157856998973406
+"82","CT cell#22","Neurog2 + Sox2","None","Nao","MAP2",-0.186461696072842
+"83","CT cell#24","Neurog2 + Sox2","Alterado","Nao","MAP2",0.373786200349537
+"84","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","MAP2",1.05114255487507
+"85","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","MAP2",0.835602201158825
+"86","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","MAP2",-1.22758951926299
+"87","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","MAP2",0.0889938536018384
+"88","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","MAP2",2.07048303410156
+"89","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","MAP2",-0.479424296797191
+"90","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","MAP2",-0.72219883048747
+"91","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","MAP2",-0.00593692864739426
+"92","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","MAP2",-0.0798595464441999
+"93","CT cell#4","GFP Dsred","Fibroblastoide","Nao","GAD1",-0.0358402407620433
+"94","CT cell#1","GFP Dsred","Fibroblastoide","Nao","GAD1",-0.0124240715511887
+"95","CT cell#3","GFP Dsred","Fibroblastoide","Nao","GAD1",0.343572787246494
+"96","CT cell#9","GFP Dsred","Fibroblastoide","Nao","GAD1",0.241555722890958
+"97","CT cell#10","GFP Dsred","Fibroblastoide","Nao","GAD1",-0.546255390370404
+"98","CT cell#14","GFP Dsred","Fibroblastoide","Nao","GAD1",-0.546255390370404
+"99","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","GAD1",0.309512961547179
+"100","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","GAD1",0.957807152970567
+"101","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","GAD1",-1.59787100956465
+"102","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","GAD1",0.931770516661084
+"103","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","GAD1",-0.546255390370404
+"104","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","GAD1",0.422665293272244
+"105","CT cell#22","Neurog2 + Sox2","None","Nao","GAD1",-1.97646541490494
+"106","CT cell#24","Neurog2 + Sox2","Alterado","Nao","GAD1",-0.353683223480996
+"107","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","GAD1",-0.105271062715427
+"108","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","GAD1",-1.67090427103275
+"109","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","GAD1",0.378615834691571
+"110","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","GAD1",1.36423941438589
+"111","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","GAD1",1.41434749285937
+"112","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","GAD1",1.19229991721228
+"113","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","GAD1",0.810430084144439
+"114","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","GAD1",0.720530259574525
+"115","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","GAD1",-1.69612197233339
+"116","CT cell#4","GFP Dsred","Fibroblastoide","Nao","THY1",1.20210636839027
+"117","CT cell#1","GFP Dsred","Fibroblastoide","Nao","THY1",-0.104134995625208
+"118","CT cell#3","GFP Dsred","Fibroblastoide","Nao","THY1",-0.952211325047088
+"119","CT cell#9","GFP Dsred","Fibroblastoide","Nao","THY1",1.05632664032284
+"120","CT cell#10","GFP Dsred","Fibroblastoide","Nao","THY1",1.53714181192528
+"121","CT cell#14","GFP Dsred","Fibroblastoide","Nao","THY1",0.455270273489074
+"122","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","THY1",-0.104134995625208
+"123","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","THY1",-1.15621196103204
+"124","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","THY1",1.09189769187662
+"125","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","THY1",-1.45217996137705
+"126","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","THY1",-1.11729702649528
+"127","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","THY1",1.61345181326101
+"128","CT cell#22","Neurog2 + Sox2","None","Nao","THY1",-1.36112445965788
+"129","CT cell#24","Neurog2 + Sox2","Alterado","Nao","THY1",-0.274693028090419
+"130","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","THY1",-0.104134995625208
+"131","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","THY1",0.144861210201047
+"132","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","THY1",-0.13757787980524
+"133","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","THY1",0.700314006748163
+"134","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","THY1",1.20621076509303
+"135","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","THY1",-0.104134995625208
+"136","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","THY1",-1.18387836668767
+"137","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","THY1",0.43246819840511
+"138","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","THY1",-1.38833478901895
+"139","CT cell#4","GFP Dsred","Fibroblastoide","Nao","RBFOX3",0.601970141882699
+"140","CT cell#1","GFP Dsred","Fibroblastoide","Nao","RBFOX3",0.180911165520165
+"141","CT cell#3","GFP Dsred","Fibroblastoide","Nao","RBFOX3",1.34839234006653
+"142","CT cell#9","GFP Dsred","Fibroblastoide","Nao","RBFOX3",2.03503409833312
+"143","CT cell#10","GFP Dsred","Fibroblastoide","Nao","RBFOX3",-0.712479362660789
+"144","CT cell#14","GFP Dsred","Fibroblastoide","Nao","RBFOX3",-0.712479362660789
+"145","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","RBFOX3",0.243527262208851
+"146","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","RBFOX3",0.496351391372497
+"147","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","RBFOX3",-0.712479362660789
+"148","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","RBFOX3",-1.32729138589733
+"149","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","RBFOX3",0.613784176609647
+"150","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","RBFOX3",0.650408856067915
+"151","CT cell#22","Neurog2 + Sox2","None","Nao","RBFOX3",-0.633324331192877
+"152","CT cell#24","Neurog2 + Sox2","Alterado","Nao","RBFOX3",0.254631932101521
+"153","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","RBFOX3",-0.251960944215598
+"154","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","RBFOX3",-1.12975715565441
+"155","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","RBFOX3",-0.712479362660789
+"156","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","RBFOX3",-0.712479362660789
+"157","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","RBFOX3",-0.712479362660789
+"158","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","RBFOX3",1.35193646034216
+"159","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","RBFOX3",1.92539891852875
+"160","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","RBFOX3",-0.712479362660789
+"161","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","RBFOX3",-1.37265738744811
+"162","CT cell#4","GFP Dsred","Fibroblastoide","Nao","CALB1",-0.530480212240323
+"163","CT cell#1","GFP Dsred","Fibroblastoide","Nao","CALB1",-0.530480212240323
+"164","CT cell#3","GFP Dsred","Fibroblastoide","Nao","CALB1",-0.530480212240323
+"165","CT cell#9","GFP Dsred","Fibroblastoide","Nao","CALB1",-0.168003062040975
+"166","CT cell#10","GFP Dsred","Fibroblastoide","Nao","CALB1",-0.530480212240323
+"167","CT cell#14","GFP Dsred","Fibroblastoide","Nao","CALB1",-0.530480212240323
+"168","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","CALB1",0.88574203399152
+"169","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","CALB1",1.53113284057673
+"170","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","CALB1",1.8905094635898
+"171","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","CALB1",0.790886433712258
+"172","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","CALB1",0.596628117850899
+"173","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","CALB1",-0.530480212240323
+"174","CT cell#22","Neurog2 + Sox2","None","Nao","CALB1",-1.91487697453924
+"175","CT cell#24","Neurog2 + Sox2","Alterado","Nao","CALB1",1.36415327489673
+"176","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","CALB1",-0.0183834176697215
+"177","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","CALB1",-0.530480212240323
+"178","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","CALB1",1.1459232734665
+"179","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","CALB1",0.865075836385015
+"180","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","CALB1",-0.333122157507426
+"181","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","CALB1",0.238904632986701
+"182","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","CALB1",-0.530480212240323
+"183","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","CALB1",-0.675760067049694
+"184","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","CALB1",-1.95496853072651
+"185","CT cell#4","GFP Dsred","Fibroblastoide","Nao","SLC32A1",1.48290086115428
+"186","CT cell#1","GFP Dsred","Fibroblastoide","Nao","SLC32A1",-0.0101195917503664
+"187","CT cell#3","GFP Dsred","Fibroblastoide","Nao","SLC32A1",2.48882628634403
+"188","CT cell#9","GFP Dsred","Fibroblastoide","Nao","SLC32A1",-0.380384874151531
+"189","CT cell#10","GFP Dsred","Fibroblastoide","Nao","SLC32A1",-0.539068741890589
+"190","CT cell#14","GFP Dsred","Fibroblastoide","Nao","SLC32A1",-0.961770112528036
+"191","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","SLC32A1",-0.152245341199113
+"192","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","SLC32A1",-0.723971531046198
+"193","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","SLC32A1",-0.429139820934571
+"194","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","SLC32A1",-0.255736651035003
+"195","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","SLC32A1",-0.597484491799866
+"196","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","SLC32A1",-0.122808491520906
+"197","CT cell#22","Neurog2 + Sox2","None","Nao","SLC32A1",-0.66371696496112
+"198","CT cell#24","Neurog2 + Sox2","Alterado","Nao","SLC32A1",-0.213419315372091
+"199","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","SLC32A1",1.10803502921197
+"200","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","SLC32A1",0.912553783393047
+"201","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","SLC32A1",-0.5261900104567
+"202","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","SLC32A1",2.02748872149691
+"203","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","SLC32A1",-1.15081199263001
+"204","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","SLC32A1",-1.30949586036908
+"205","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","SLC32A1",-0.797104828519168
+"206","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","SLC32A1",0.144426939685132
+"207","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","SLC32A1",0.669236998878982
+"208","CT cell#4","GFP Dsred","Fibroblastoide","Nao","TBR1",0.966099120996841
+"209","CT cell#1","GFP Dsred","Fibroblastoide","Nao","TBR1",-1.18069567671338
+"210","CT cell#3","GFP Dsred","Fibroblastoide","Nao","TBR1",1.57137737311738
+"211","CT cell#9","GFP Dsred","Fibroblastoide","Nao","TBR1",1.00295945573679
+"212","CT cell#10","GFP Dsred","Fibroblastoide","Nao","TBR1",0.788007934139274
+"213","CT cell#14","GFP Dsred","Fibroblastoide","Nao","TBR1",1.32577452352406
+"214","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","TBR1",-1.27420376249966
+"215","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","TBR1",-1.34637181027871
+"216","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","TBR1",0.168762006986853
+"217","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","TBR1",-0.568046541754306
+"218","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","TBR1",1.00955476779331
+"219","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","TBR1",-0.29179236416518
+"220","CT cell#22","Neurog2 + Sox2","None","Nao","TBR1",-2.0789132394462
+"221","CT cell#24","Neurog2 + Sox2","Alterado","Nao","TBR1",-0.718977949330134
+"222","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","TBR1",-0.847018177334711
+"223","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","TBR1",-0.192076751732781
+"224","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","TBR1",1.18105064259435
+"225","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","TBR1",0.365866519428025
+"226","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","TBR1",0.249465773933674
+"227","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","TBR1",-0.449319083836328
+"228","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","TBR1",0.959891594350724
+"229","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","TBR1",0.134231344866581
+"230","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","TBR1",-0.775625700376467
+"231","CT cell#4","GFP Dsred","Fibroblastoide","Nao","CALB2",0.817617226002271
+"232","CT cell#1","GFP Dsred","Fibroblastoide","Nao","CALB2",-0.304000142811661
+"233","CT cell#3","GFP Dsred","Fibroblastoide","Nao","CALB2",-1.83114105451357
+"234","CT cell#9","GFP Dsred","Fibroblastoide","Nao","CALB2",-0.030418982550442
+"235","CT cell#10","GFP Dsred","Fibroblastoide","Nao","CALB2",-0.532248297395779
+"236","CT cell#14","GFP Dsred","Fibroblastoide","Nao","CALB2",-0.202958028642559
+"237","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","CALB2",1.04428659066961
+"238","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","CALB2",-0.151759858616093
+"239","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","CALB2",-0.378429223283429
+"240","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","CALB2",1.29531395341616
+"241","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","CALB2",1.97667455255632
+"242","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","CALB2",1.12931545697935
+"243","CT cell#22","Neurog2 + Sox2","None","Nao","CALB2",-2.4213830727648
+"244","CT cell#24","Neurog2 + Sox2","Alterado","Nao","CALB2",-0.0211717018731662
+"245","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","CALB2",0.033860286809186
+"246","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","CALB2",-0.817783462477233
+"247","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","CALB2",-0.532248297395779
+"248","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","CALB2",-0.329486949247923
+"249","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","CALB2",0.893624229138966
+"250","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","CALB2",-0.532248297395779
+"251","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","CALB2",0.453592877014524
+"252","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","CALB2",0.973240493777606
+"253","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","CALB2",-0.532248297395779
+"254","CT cell#4","GFP Dsred","Fibroblastoide","Nao","DLG4",0.921872387002673
+"255","CT cell#1","GFP Dsred","Fibroblastoide","Nao","DLG4",0.144883667581993
+"256","CT cell#3","GFP Dsred","Fibroblastoide","Nao","DLG4",0.423182357173614
+"257","CT cell#9","GFP Dsred","Fibroblastoide","Nao","DLG4",-0.348275367995447
+"258","CT cell#10","GFP Dsred","Fibroblastoide","Nao","DLG4",-0.696753389305679
+"259","CT cell#14","GFP Dsred","Fibroblastoide","Nao","DLG4",1.19429389506612
+"260","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","DLG4",0.11791773705012
+"261","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","DLG4",0.0097098111025498
+"262","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","DLG4",-1.95929568499131
+"263","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","DLG4",-0.108696307325144
+"264","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","DLG4",1.28279648129003
+"265","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","DLG4",0.436664992742158
+"266","CT cell#22","Neurog2 + Sox2","None","Nao","DLG4",-2.08582653048332
+"267","CT cell#24","Neurog2 + Sox2","Alterado","Nao","DLG4",-0.136699465098049
+"268","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","DLG4",-2.12921335763315
+"269","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","DLG4",1.34779034138396
+"270","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","DLG4",-0.181987326073535
+"271","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","DLG4",1.21313542823972
+"272","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","DLG4",-0.222781414800889
+"273","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","DLG4",-0.348275367995447
+"274","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","DLG4",0.857051288222212
+"275","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","DLG4",0.292848454981314
+"276","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","DLG4",-0.0243426301344969
+"277","CT cell#4","GFP Dsred","Fibroblastoide","Nao","SLC17A6",0.773455987736152
+"278","CT cell#1","GFP Dsred","Fibroblastoide","Nao","SLC17A6",0.400660479689209
+"279","CT cell#3","GFP Dsred","Fibroblastoide","Nao","SLC17A6",1.37184859410714
+"280","CT cell#9","GFP Dsred","Fibroblastoide","Nao","SLC17A6",-1.04297836956156
+"281","CT cell#10","GFP Dsred","Fibroblastoide","Nao","SLC17A6",-1.09143488872291
+"282","CT cell#14","GFP Dsred","Fibroblastoide","Nao","SLC17A6",1.74738716253794
+"283","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","SLC17A6",0.927511176498068
+"284","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","SLC17A6",-1.39863105810175
+"285","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","SLC17A6",-0.179674663058278
+"286","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","SLC17A6",-0.860808991678078
+"287","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","SLC17A6",-1.21966206264907
+"288","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","SLC17A6",0.0411225155428943
+"289","CT cell#22","Neurog2 + Sox2","None","Nao","SLC17A6",1.46487635682369
+"290","CT cell#24","Neurog2 + Sox2","Alterado","Nao","SLC17A6",0.817798352270591
+"291","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","SLC17A6",-0.140360661272873
+"292","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","SLC17A6",-0.589497998604809
+"293","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","SLC17A6",0.494373571529982
+"294","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","SLC17A6",1.01848207987562
+"295","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","SLC17A6",-0.953150553326919
+"296","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","SLC17A6",-0.546298721213276
+"297","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","SLC17A6",-1.19977661870735
+"298","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","SLC17A6",1.03745331567236
+"299","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","SLC17A6",-0.872695005386775
+"300","CT cell#4","GFP Dsred","Fibroblastoide","Nao","GAD2",-0.580742079407925
+"301","CT cell#1","GFP Dsred","Fibroblastoide","Nao","GAD2",-0.186989629731789
+"302","CT cell#3","GFP Dsred","Fibroblastoide","Nao","GAD2",-0.409700102050231
+"303","CT cell#9","GFP Dsred","Fibroblastoide","Nao","GAD2",-0.359144554513216
+"304","CT cell#10","GFP Dsred","Fibroblastoide","Nao","GAD2",-2.04840365641045
+"305","CT cell#14","GFP Dsred","Fibroblastoide","Nao","GAD2",-0.409700102050231
+"306","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","GAD2",1.1419235073764
+"307","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","GAD2",-0.409700102050231
+"308","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","GAD2",1.50895093906649
+"309","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","GAD2",-0.409700102050231
+"310","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","GAD2",-0.409700102050231
+"311","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","GAD2",-0.879619313437141
+"312","CT cell#22","Neurog2 + Sox2","None","Nao","GAD2",0.576907334992848
+"313","CT cell#24","Neurog2 + Sox2","Alterado","Nao","GAD2",2.1619378472673
+"314","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","GAD2",-0.409700102050231
+"315","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","GAD2",-0.169618410519541
+"316","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","GAD2",-0.409700102050231
+"317","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","GAD2",1.17911611434092
+"318","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","GAD2",-0.409700102050231
+"319","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","GAD2",2.16238302352864
+"320","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","GAD2",-0.409700102050231
+"321","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","GAD2",-0.409700102050231
+"322","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","GAD2",-0.409700102050231
+"323","CT cell#4","GFP Dsred","Fibroblastoide","Nao","NEUROD1",-1.12262244231924
+"324","CT cell#1","GFP Dsred","Fibroblastoide","Nao","NEUROD1",-0.354563597725251
+"325","CT cell#3","GFP Dsred","Fibroblastoide","Nao","NEUROD1",1.64537490377956
+"326","CT cell#9","GFP Dsred","Fibroblastoide","Nao","NEUROD1",-0.150526249975185
+"327","CT cell#10","GFP Dsred","Fibroblastoide","Nao","NEUROD1",-0.93315819804267
+"328","CT cell#14","GFP Dsred","Fibroblastoide","Nao","NEUROD1",-0.0805697936393795
+"329","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","NEUROD1",-0.940809598567357
+"330","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","NEUROD1",0.540654435370629
+"331","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","NEUROD1",-0.870488988412423
+"332","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","NEUROD1",0.518064387579264
+"333","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","NEUROD1",-0.822030118301287
+"334","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","NEUROD1",0.661254684878093
+"335","CT cell#22","Neurog2 + Sox2","None","Nao","NEUROD1",-0.763733545780117
+"336","CT cell#24","Neurog2 + Sox2","Alterado","Nao","NEUROD1",0.56287893936881
+"337","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","NEUROD1",-0.861745126321039
+"338","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","NEUROD1",1.87783293064072
+"339","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","NEUROD1",2.08806506356608
+"340","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","NEUROD1",-0.763733545780117
+"341","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","NEUROD1",-0.769562776049431
+"342","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","NEUROD1",1.09228636186396
+"343","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","NEUROD1",-0.52872504095245
+"344","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","NEUROD1",0.857642022041092
+"345","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","NEUROD1",-0.881784707222261
+"346","CT cell#4","GFP Dsred","Fibroblastoide","Nao","HPRT1",0.151927985873773
+"347","CT cell#1","GFP Dsred","Fibroblastoide","Nao","HPRT1",1.09272379005282
+"348","CT cell#3","GFP Dsred","Fibroblastoide","Nao","HPRT1",-0.317056843118322
+"349","CT cell#9","GFP Dsred","Fibroblastoide","Nao","HPRT1",-0.634567198959816
+"350","CT cell#10","GFP Dsred","Fibroblastoide","Nao","HPRT1",-0.683247546748028
+"351","CT cell#14","GFP Dsred","Fibroblastoide","Nao","HPRT1",0.146060146939225
+"352","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","HPRT1",0.540286403359191
+"353","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","HPRT1",-0.85362959297803
+"354","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","HPRT1",-0.0801733132854344
+"355","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","HPRT1",-0.490915820196999
+"356","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","HPRT1",-0.398335697286537
+"357","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","HPRT1",-0.349220525913008
+"358","CT cell#22","Neurog2 + Sox2","None","Nao","HPRT1",-0.692809935564008
+"359","CT cell#24","Neurog2 + Sox2","Alterado","Nao","HPRT1",2.65484812910846
+"360","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","HPRT1",1.01774676940061
+"361","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","HPRT1",2.62116318546373
+"362","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","HPRT1",-0.72606047010362
+"363","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","HPRT1",-0.609792201469526
+"364","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","HPRT1",-0.596752467302942
+"365","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","HPRT1",-0.479832170509241
+"366","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","HPRT1",-1.06878023254052
+"367","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","HPRT1",-0.3965972318622
+"368","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","HPRT1",0.153014837640431
+"369","CT cell#4","GFP Dsred","Fibroblastoide","Nao","SLC17A6",0.773455987736152
+"370","CT cell#1","GFP Dsred","Fibroblastoide","Nao","SLC17A6",0.400660479689209
+"371","CT cell#3","GFP Dsred","Fibroblastoide","Nao","SLC17A6",1.37184859410714
+"372","CT cell#9","GFP Dsred","Fibroblastoide","Nao","SLC17A6",-1.04297836956156
+"373","CT cell#10","GFP Dsred","Fibroblastoide","Nao","SLC17A6",-1.09143488872291
+"374","CT cell#14","GFP Dsred","Fibroblastoide","Nao","SLC17A6",1.74738716253794
+"375","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","SLC17A6",0.927511176498068
+"376","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","SLC17A6",-1.39863105810175
+"377","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","SLC17A6",-0.179674663058278
+"378","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","SLC17A6",-0.860808991678078
+"379","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","SLC17A6",-1.21966206264907
+"380","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","SLC17A6",0.0411225155428943
+"381","CT cell#22","Neurog2 + Sox2","None","Nao","SLC17A6",1.46487635682369
+"382","CT cell#24","Neurog2 + Sox2","Alterado","Nao","SLC17A6",0.817798352270591
+"383","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","SLC17A6",-0.140360661272873
+"384","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","SLC17A6",-0.589497998604809
+"385","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","SLC17A6",0.494373571529982
+"386","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","SLC17A6",1.01848207987562
+"387","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","SLC17A6",-0.953150553326919
+"388","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","SLC17A6",-0.546298721213276
+"389","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","SLC17A6",-1.19977661870735
+"390","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","SLC17A6",1.03745331567236
+"391","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","SLC17A6",-0.872695005386775
+"392","CT cell#4","GFP Dsred","Fibroblastoide","Nao","PVALB",0.547034454347455
+"393","CT cell#1","GFP Dsred","Fibroblastoide","Nao","PVALB",0.97832186196747
+"394","CT cell#3","GFP Dsred","Fibroblastoide","Nao","PVALB",1.10537579294355
+"395","CT cell#9","GFP Dsred","Fibroblastoide","Nao","PVALB",-0.58850875215831
+"396","CT cell#10","GFP Dsred","Fibroblastoide","Nao","PVALB",-0.66196106644663
+"397","CT cell#14","GFP Dsred","Fibroblastoide","Nao","PVALB",1.54559743442773
+"398","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","PVALB",0.634879234368139
+"399","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","PVALB",0.814044796405485
+"400","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","PVALB",-0.0922053400728944
+"401","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","PVALB",-0.121486302330246
+"402","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","PVALB",-0.214791207467758
+"403","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","PVALB",-2.42631984788208
+"404","CT cell#22","Neurog2 + Sox2","None","Nao","PVALB",0.411544213498826
+"405","CT cell#24","Neurog2 + Sox2","Alterado","Nao","PVALB",0.217488261687869
+"406","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","PVALB",-2.9226232599675
+"407","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","PVALB",0.464151875402344
+"408","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","PVALB",-0.119004255168144
+"409","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","PVALB",0.414024367461932
+"410","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","PVALB",0.184237159890552
+"411","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","PVALB",-0.26442268466518
+"412","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","PVALB",0.116243077470429
+"413","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","PVALB",-0.167641777482069
+"414","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","PVALB",0.146021963769029
+"415","CT cell#4","GFP Dsred","Fibroblastoide","Nao","SYN1",0.49377108733227
+"416","CT cell#1","GFP Dsred","Fibroblastoide","Nao","SYN1",-0.949354140249644
+"417","CT cell#3","GFP Dsred","Fibroblastoide","Nao","SYN1",0.782822297047936
+"418","CT cell#9","GFP Dsred","Fibroblastoide","Nao","SYN1",-1.80248884835205
+"419","CT cell#10","GFP Dsred","Fibroblastoide","Nao","SYN1",-2.27022285141705
+"420","CT cell#14","GFP Dsred","Fibroblastoide","Nao","SYN1",0.733138436912546
+"421","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","SYN1",-0.614700667096394
+"422","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","SYN1",0.263630324544136
+"423","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","SYN1",1.09210146655213
+"424","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","SYN1",0.503175694253086
+"425","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","SYN1",1.17248195285261
+"426","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","SYN1",0.514531753722892
+"427","CT cell#22","Neurog2 + Sox2","None","Nao","SYN1",-0.388464163172426
+"428","CT cell#24","Neurog2 + Sox2","Alterado","Nao","SYN1",0.506547246515161
+"429","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","SYN1",-0.628541562618117
+"430","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","SYN1",0.0879643969657175
+"431","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","SYN1",0.610172558375086
+"432","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","SYN1",-0.044938795112392
+"433","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","SYN1",0.26008142903648
+"434","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","SYN1",0.22849740977814
+"435","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","SYN1",0.872607390269228
+"436","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","SYN1",0.820084684491596
+"437","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","SYN1",-2.24289710063095
+"438","CT cell#4","GFP Dsred","Fibroblastoide","Nao","GAPDH",0.206425976671951
+"439","CT cell#1","GFP Dsred","Fibroblastoide","Nao","GAPDH",-0.507228548303129
+"440","CT cell#3","GFP Dsred","Fibroblastoide","Nao","GAPDH",-0.605522317416379
+"441","CT cell#9","GFP Dsred","Fibroblastoide","Nao","GAPDH",-0.584225295043182
+"442","CT cell#10","GFP Dsred","Fibroblastoide","Nao","GAPDH",1.49960432844501
+"443","CT cell#14","GFP Dsred","Fibroblastoide","Nao","GAPDH",1.21803336718304
+"444","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","GAPDH",-0.062039304949082
+"445","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","GAPDH",-0.904909019447817
+"446","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","GAPDH",-0.415487228456069
+"447","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","GAPDH",-1.24156531531425
+"448","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","GAPDH",-0.41937823340584
+"449","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","GAPDH",-0.617194551136652
+"450","CT cell#22","Neurog2 + Sox2","None","Nao","GAPDH",-1.00504595782777
+"451","CT cell#24","Neurog2 + Sox2","Alterado","Nao","GAPDH",-0.299787441939872
+"452","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","GAPDH",-0.510095440144467
+"453","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","GAPDH",-0.142926666064147
+"454","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","GAPDH",0.676393914598165
+"455","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","GAPDH",1.605270774707
+"456","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","GAPDH",-0.608798542028995
+"457","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","GAPDH",1.78383751515244
+"458","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","GAPDH",-0.768730876141937
+"459","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","GAPDH",2.29332793956736
+"460","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","GAPDH",-0.58995907870538
+"461","CT cell#4","GFP Dsred","Fibroblastoide","Nao","TH",0.904417530419584
+"462","CT cell#1","GFP Dsred","Fibroblastoide","Nao","TH",-0.230305413388324
+"463","CT cell#3","GFP Dsred","Fibroblastoide","Nao","TH",-0.230305413388324
+"464","CT cell#9","GFP Dsred","Fibroblastoide","Nao","TH",-0.14217843171536
+"465","CT cell#10","GFP Dsred","Fibroblastoide","Nao","TH",1.12473497158787
+"466","CT cell#14","GFP Dsred","Fibroblastoide","Nao","TH",-0.586400520990266
+"467","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","TH",0.518775846334081
+"468","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","TH",0.396490268481508
+"469","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","TH",1.24787402585779
+"470","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","TH",-0.230305413388324
+"471","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","TH",1.45487072006272
+"472","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","TH",-1.29620003540555
+"473","CT cell#22","Neurog2 + Sox2","None","Nao","TH",-2.05023405909084
+"474","CT cell#24","Neurog2 + Sox2","Alterado","Nao","TH",-0.382648991647566
+"475","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","TH",-0.230305413388324
+"476","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","TH",-1.38706009088126
+"477","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","TH",-0.0431204421883888
+"478","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","TH",1.0555655954115
+"479","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","TH",1.6895350344227
+"480","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","TH",-0.230305413388324
+"481","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","TH",0.574453128754448
+"482","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","TH",-0.230305413388324
+"483","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","TH",-1.69704206908303
+"484","CT cell#4","GFP Dsred","Fibroblastoide","Nao","FEZF2",0.687567679864752
+"485","CT cell#1","GFP Dsred","Fibroblastoide","Nao","FEZF2",0.479370538635644
+"486","CT cell#3","GFP Dsred","Fibroblastoide","Nao","FEZF2",0.249435827689644
+"487","CT cell#9","GFP Dsred","Fibroblastoide","Nao","FEZF2",-0.95579001071399
+"488","CT cell#10","GFP Dsred","Fibroblastoide","Nao","FEZF2",-1.0352524232995
+"489","CT cell#14","GFP Dsred","Fibroblastoide","Nao","FEZF2",0.533472606765611
+"490","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","FEZF2",0.132535919066267
+"491","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","FEZF2",0.264893429815127
+"492","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","FEZF2",-0.781648057531549
+"493","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","FEZF2",0.171904578851791
+"494","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","FEZF2",1.14647151989499
+"495","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","FEZF2",0.0960649410049325
+"496","CT cell#22","Neurog2 + Sox2","None","Nao","FEZF2",-1.74896852776419
+"497","CT cell#24","Neurog2 + Sox2","Alterado","Nao","FEZF2",2.14736346589809
+"498","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","FEZF2",-0.148360868847388
+"499","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","FEZF2",0.834658598982209
+"500","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","FEZF2",0.563905020097775
+"501","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","FEZF2",-1.20891158553899
+"502","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","FEZF2",-0.76812254048698
+"503","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","FEZF2",-0.0797677018110983
+"504","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","FEZF2",-0.152950146805206
+"505","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","FEZF2",1.52301343765809
+"506","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","FEZF2",-1.95088570142604
+"507","CT cell#4","GFP Dsred","Fibroblastoide","Nao","ATOH8",0.13592632933938
+"508","CT cell#1","GFP Dsred","Fibroblastoide","Nao","ATOH8",-0.217004771787314
+"509","CT cell#3","GFP Dsred","Fibroblastoide","Nao","ATOH8",-0.69565546617137
+"510","CT cell#9","GFP Dsred","Fibroblastoide","Nao","ATOH8",-0.431293207947486
+"511","CT cell#10","GFP Dsred","Fibroblastoide","Nao","ATOH8",0.514162374033133
+"512","CT cell#14","GFP Dsred","Fibroblastoide","Nao","ATOH8",-0.369106573560325
+"513","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","ATOH8",-0.0772858688176049
+"514","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","ATOH8",0.514162374033133
+"515","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","ATOH8",0.783369757175629
+"516","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","ATOH8",0.684571518394376
+"517","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","ATOH8",-0.378259731408659
+"518","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","ATOH8",0.442822581797638
+"519","CT cell#22","Neurog2 + Sox2","None","Nao","ATOH8",-2.89831006142721
+"520","CT cell#24","Neurog2 + Sox2","Alterado","Nao","ATOH8",-2.55318630715197
+"521","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","ATOH8",-0.370991017031498
+"522","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","ATOH8",0.367444843139191
+"523","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","ATOH8",0.823213156415495
+"524","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","ATOH8",0.0985065195042232
+"525","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","ATOH8",0.881899963367838
+"526","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","ATOH8",1.07303695893965
+"527","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","ATOH8",0.910166615354659
+"528","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","ATOH8",0.731143459105542
+"529","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","ATOH8",0.0306665547035455
+"530","CT cell#4","GFP Dsred","Fibroblastoide","Nao","HGDC",0.940141689063214
+"531","CT cell#1","GFP Dsred","Fibroblastoide","Nao","HGDC",0.411986883054658
+"532","CT cell#3","GFP Dsred","Fibroblastoide","Nao","HGDC",-1.4942222378864
+"533","CT cell#9","GFP Dsred","Fibroblastoide","Nao","HGDC",-0.273882639079641
+"534","CT cell#10","GFP Dsred","Fibroblastoide","Nao","HGDC",-0.473477904856327
+"535","CT cell#14","GFP Dsred","Fibroblastoide","Nao","HGDC",-0.64232763217701
+"536","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","HGDC",0.100046809818121
+"537","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","HGDC",1.16815583132369
+"538","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","HGDC",-1.57033736804907
+"539","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","HGDC",1.08406316681842
+"540","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","HGDC",-0.119657281968848
+"541","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","HGDC",0.91155671300189
+"542","CT cell#22","Neurog2 + Sox2","None","Nao","HGDC",-0.514526688716242
+"543","CT cell#24","Neurog2 + Sox2","Alterado","Nao","HGDC",0.252111604517616
+"544","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","HGDC",-1.64545590074654
+"545","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","HGDC",-1.53294467673332
+"546","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","HGDC",0.476469020265631
+"547","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","HGDC",-1.45500118333103
+"548","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","HGDC",0.870674028719508
+"549","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","HGDC",0.88895512542524
+"550","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","HGDC",0.402348035960881
+"551","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","HGDC",1.45915594671059
+"552","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","HGDC",0.756168658864979
+"553","CT cell#4","GFP Dsred","Fibroblastoide","Nao","TPH2",-0.252172517032857
+"554","CT cell#1","GFP Dsred","Fibroblastoide","Nao","TPH2",-0.252172517032857
+"555","CT cell#3","GFP Dsred","Fibroblastoide","Nao","TPH2",-2.08098085474569
+"556","CT cell#9","GFP Dsred","Fibroblastoide","Nao","TPH2",-0.252172517032857
+"557","CT cell#10","GFP Dsred","Fibroblastoide","Nao","TPH2",-0.252172517032857
+"558","CT cell#14","GFP Dsred","Fibroblastoide","Nao","TPH2",-0.252172517032857
+"559","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","TPH2",-0.252172517032857
+"560","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","TPH2",-0.252172517032857
+"561","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","TPH2",0.946003953821236
+"562","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","TPH2",-0.252172517032857
+"563","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","TPH2",1.61089611506694
+"564","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","TPH2",-0.252172517032857
+"565","CT cell#22","Neurog2 + Sox2","None","Nao","TPH2",-2.11973069559697
+"566","CT cell#24","Neurog2 + Sox2","Alterado","Nao","TPH2",-0.252172517032857
+"567","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","TPH2",-0.252172517032857
+"568","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","TPH2",-0.252172517032857
+"569","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","TPH2",0.42571513202852
+"570","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","TPH2",-0.770807377741201
+"571","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","TPH2",0.938679687234898
+"572","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","TPH2",1.76991273861703
+"573","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","TPH2",1.91073586958193
+"574","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","TPH2",-0.252172517032857
+"575","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","TPH2",0.647818153160445
+"576","CT cell#4","GFP Dsred","Fibroblastoide","Nao","BCL11B",2.16280068511996
+"577","CT cell#1","GFP Dsred","Fibroblastoide","Nao","BCL11B",-0.430287517615934
+"578","CT cell#3","GFP Dsred","Fibroblastoide","Nao","BCL11B",0.883697310720545
+"579","CT cell#9","GFP Dsred","Fibroblastoide","Nao","BCL11B",-0.430287517615934
+"580","CT cell#10","GFP Dsred","Fibroblastoide","Nao","BCL11B",-0.430287517615934
+"581","CT cell#14","GFP Dsred","Fibroblastoide","Nao","BCL11B",0.350536694480595
+"582","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","BCL11B",0.228180386426259
+"583","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","BCL11B",0.644620507748913
+"584","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","BCL11B",-1.79230264128361
+"585","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","BCL11B",1.28135480014197
+"586","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","BCL11B",-2.12368354128909
+"587","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","BCL11B",1.04496079164222
+"588","CT cell#22","Neurog2 + Sox2","None","Nao","BCL11B",1.13484924769207
+"589","CT cell#24","Neurog2 + Sox2","Alterado","Nao","BCL11B",0.881014516275495
+"590","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","BCL11B",-0.430287517615934
+"591","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","BCL11B",-0.568474454273014
+"592","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","BCL11B",-0.430287517615934
+"593","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","BCL11B",-0.237899109121341
+"594","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","BCL11B",-0.516687616209875
+"595","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","BCL11B",0.669574283420868
+"596","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","BCL11B",-1.01121026027885
+"597","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","BCL11B",-0.449606495517525
+"598","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","BCL11B",-0.430287517615934
+"599","CT cell#4","GFP Dsred","Fibroblastoide","Nao","HCN1",-0.472725258484129
+"600","CT cell#1","GFP Dsred","Fibroblastoide","Nao","HCN1",-0.367123924317995
+"601","CT cell#3","GFP Dsred","Fibroblastoide","Nao","HCN1",1.64947587100122
+"602","CT cell#9","GFP Dsred","Fibroblastoide","Nao","HCN1",-0.469756565805177
+"603","CT cell#10","GFP Dsred","Fibroblastoide","Nao","HCN1",-1.11523772387008
+"604","CT cell#14","GFP Dsred","Fibroblastoide","Nao","HCN1",2.01081026423525
+"605","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","HCN1",-0.477813290410525
+"606","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","HCN1",0.586679025973122
+"607","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","HCN1",0.638843891281956
+"608","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","HCN1",0.21983111514586
+"609","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","HCN1",-0.857383707779806
+"610","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","HCN1",-0.437524813762086
+"611","CT cell#22","Neurog2 + Sox2","None","Nao","HCN1",0.527729039522584
+"612","CT cell#24","Neurog2 + Sox2","Alterado","Nao","HCN1",-0.138956835398937
+"613","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","HCN1",-0.899370891418495
+"614","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","HCN1",0.976427125012547
+"615","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","HCN1",-1.17079514974977
+"616","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","HCN1",1.49892027829239
+"617","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","HCN1",-1.06858637611207
+"618","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","HCN1",-0.183912711758989
+"619","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","HCN1",-1.38242168593152
+"620","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","HCN1",1.52903107327069
+"621","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","HCN1",-0.596138748936031
+"622","CT cell#4","GFP Dsred","Fibroblastoide","Nao","PPC",-1.2237916262092
+"623","CT cell#1","GFP Dsred","Fibroblastoide","Nao","PPC",-0.796004878919524
+"624","CT cell#3","GFP Dsred","Fibroblastoide","Nao","PPC",-0.5566832625214
+"625","CT cell#9","GFP Dsred","Fibroblastoide","Nao","PPC",0.966004302076008
+"626","CT cell#10","GFP Dsred","Fibroblastoide","Nao","PPC",0.60402914479832
+"627","CT cell#14","GFP Dsred","Fibroblastoide","Nao","PPC",0.77454358533885
+"628","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","PPC",0.00273237112249773
+"629","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","PPC",-2.09133605210883
+"630","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","PPC",-1.14302493139266
+"631","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","PPC",0.888221781042906
+"632","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","PPC",0.469410378928734
+"633","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","PPC",-0.5566832625214
+"634","CT cell#22","Neurog2 + Sox2","None","Nao","PPC",-0.679336803400952
+"635","CT cell#24","Neurog2 + Sox2","Alterado","Nao","PPC",-1.96868251122928
+"636","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","PPC",-0.320351525937791
+"637","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","PPC",1.59422140554642
+"638","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","PPC",0.379662633204746
+"639","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","PPC",0.837365295835474
+"640","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","PPC",-0.182742880253679
+"641","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","PPC",0.3407713726882
+"642","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","PPC",0.927113041559462
+"643","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","PPC",1.26814762897076
+"644","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","PPC",0.466414793382279
+"645","CT cell#4","GFP Dsred","Fibroblastoide","Nao","NT5E",0.0164247211593843
+"646","CT cell#1","GFP Dsred","Fibroblastoide","Nao","NT5E",-1.54902259374506
+"647","CT cell#3","GFP Dsred","Fibroblastoide","Nao","NT5E",0.0606317792199805
+"648","CT cell#9","GFP Dsred","Fibroblastoide","Nao","NT5E",0.0164247211593843
+"649","CT cell#10","GFP Dsred","Fibroblastoide","Nao","NT5E",0.0164247211593843
+"650","CT cell#14","GFP Dsred","Fibroblastoide","Nao","NT5E",0.0164247211593843
+"651","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","NT5E",0.0164247211593843
+"652","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","NT5E",-0.138653905380441
+"653","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","NT5E",0.254007980016945
+"654","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","NT5E",0.55636469284912
+"655","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","NT5E",0.0164247211593843
+"656","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","NT5E",1.96176853110274
+"657","CT cell#22","Neurog2 + Sox2","None","Nao","NT5E",1.12112665351643
+"658","CT cell#24","Neurog2 + Sox2","Alterado","Nao","NT5E",-1.5320016031128
+"659","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","NT5E",-0.39656819802201
+"660","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","NT5E",2.56104501526549
+"661","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","NT5E",0.0164247211593843
+"662","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","NT5E",0.0164247211593843
+"663","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","NT5E",-0.0769537725308568
+"664","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","NT5E",0.0164247211593843
+"665","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","NT5E",-1.06676480008741
+"666","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","NT5E",0.0679597916096941
+"667","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","NT5E",-1.97076206113629
+"668","CT cell#4","GFP Dsred","Fibroblastoide","Nao","SST",0.671123351004017
+"669","CT cell#1","GFP Dsred","Fibroblastoide","Nao","SST",0.710562677184074
+"670","CT cell#3","GFP Dsred","Fibroblastoide","Nao","SST",-0.935596022611734
+"671","CT cell#9","GFP Dsred","Fibroblastoide","Nao","SST",-0.0879915447650894
+"672","CT cell#10","GFP Dsred","Fibroblastoide","Nao","SST",-0.149635759650978
+"673","CT cell#14","GFP Dsred","Fibroblastoide","Nao","SST",0.80253151189064
+"674","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","SST",1.00834220086749
+"675","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","SST",1.80639956734307
+"676","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","SST",-0.910242486138202
+"677","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","SST",-0.0437473858667158
+"678","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","SST",-0.939904315914236
+"679","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","SST",-1.42410768280818
+"680","CT cell#22","Neurog2 + Sox2","None","Nao","SST",-1.98404010608808
+"681","CT cell#24","Neurog2 + Sox2","Alterado","Nao","SST",0.60517115888997
+"682","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","SST",-0.0401018826088586
+"683","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","SST",1.38897711716231
+"684","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","SST",-1.03568458844972
+"685","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","SST",0.402508485548714
+"686","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","SST",1.1702406000715
+"687","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","SST",-0.991108560425798
+"688","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","SST",-0.24409013602283
+"689","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","SST",0.996080110988055
+"690","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","SST",-0.775686309599418
+"691","CT cell#4","GFP Dsred","Fibroblastoide","Nao","SCN1A",-0.0453967880667358
+"692","CT cell#1","GFP Dsred","Fibroblastoide","Nao","SCN1A",-0.707134953977445
+"693","CT cell#3","GFP Dsred","Fibroblastoide","Nao","SCN1A",0.695403166961733
+"694","CT cell#9","GFP Dsred","Fibroblastoide","Nao","SCN1A",-0.47607102657609
+"695","CT cell#10","GFP Dsred","Fibroblastoide","Nao","SCN1A",0.809490385212554
+"696","CT cell#14","GFP Dsred","Fibroblastoide","Nao","SCN1A",1.55522160831571
+"697","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","SCN1A",0.737229763655711
+"698","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","SCN1A",0.207430745762846
+"699","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","SCN1A",0.454817864440498
+"700","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","SCN1A",-0.560233367058285
+"701","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","SCN1A",1.24747558698957
+"702","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","SCN1A",0.366404632088104
+"703","CT cell#22","Neurog2 + Sox2","None","Nao","SCN1A",-1.89000107073388
+"704","CT cell#24","Neurog2 + Sox2","Alterado","Nao","SCN1A",0.0399557243096955
+"705","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","SCN1A",0.225623836525369
+"706","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","SCN1A",-1.76588268165643
+"707","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","SCN1A",0.8856620348521
+"708","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","SCN1A",-1.61200999529111
+"709","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","SCN1A",0.745391034996108
+"710","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","SCN1A",0.795548186320228
+"711","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","SCN1A",-0.274250952177369
+"712","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","SCN1A",0.400069308846184
+"713","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","SCN1A",-1.83474304373907
+"714","CT cell#4","GFP Dsred","Fibroblastoide","Nao","RTC",-0.219085393539054
+"715","CT cell#1","GFP Dsred","Fibroblastoide","Nao","RTC",-0.348697981447886
+"716","CT cell#3","GFP Dsred","Fibroblastoide","Nao","RTC",-0.120978173618546
+"717","CT cell#9","GFP Dsred","Fibroblastoide","Nao","RTC",-0.35507922951119
+"718","CT cell#10","GFP Dsred","Fibroblastoide","Nao","RTC",-0.465150243617989
+"719","CT cell#14","GFP Dsred","Fibroblastoide","Nao","RTC",3.87150303329221
+"720","CT cell#17","Neurog2 + Sox2","Fibroblastoide","Nao","RTC",-0.305626648885391
+"721","CT cell#20","Neurog2 + Sox2","Fibroblastoide","Nao","RTC",0.034557996804729
+"722","CT cell#18","Neurog2 + Sox2","Fibroblastoide","Nao","RTC",-0.347900800845665
+"723","CT cell#16","Neurog2 + Sox2","Fibroblastoide","Nao","RTC",-0.494263309150545
+"724","CT cell#23","Neurog2 + Sox2","Fibroblastoide","Nao","RTC",-0.437632299899102
+"725","CT cell#19","Neurog2 + Sox2","Fibroblastoide","Nao","RTC",-0.543317299435351
+"726","CT cell#22","Neurog2 + Sox2","None","Nao","RTC",1.93966975314565
+"727","CT cell#24","Neurog2 + Sox2","Alterado","Nao","RTC",0.339248328938873
+"728","CT cell#26","Neurog2 + Sox2","Neuronal","Nao","RTC",-0.160859262434062
+"729","CT cell#27","Neurog2 + Sox2","Neuronal","Nao","RTC",-0.228257534319357
+"730","CT cell#28","Neurog2 + Sox2","Neuronal","Nao","RTC",-0.530954154298841
+"731","CT cell#30","Ascl1 + Sox2","Fibroblastoide","Nao","RTC",-0.455180161546475
+"732","CT cell#37","Ascl1 + Sox2","Fibroblastoide","Nao","RTC",-0.491471655744556
+"733","CT cell#35","Ascl1 + Sox2","Fibroblastoide","Nao","RTC",-0.461162058659562
+"734","CT cell#32","Ascl1 + Sox2","Fibroblastoide","Nao","RTC",-0.320781447427889
+"735","CT cell#38","Ascl1 + Sox2","Neuronal","Nao","RTC",0.566170195516885
+"736","CT cell#33","Ascl1 + Sox2","Neuronal","Nao","RTC",-0.464751653316878

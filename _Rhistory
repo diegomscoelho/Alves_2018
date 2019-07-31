@@ -1,0 +1,446 @@
+biometria <-data.frame(altura=c(1.85, 1.76, 1.67), idade=c(32, 17, 60), massa=c(84, 60, 88))
+row.names(biometria)<-c("Jonas", "Licurgo", "Ivone")
+biometria <-data.frame(altura=c(1.85, 1.76, 1.67), idade=c(32, 17, 60), massa=c(84, 60, 88))
+row.names(biometria)<-c("Jonas", "Licurgo", "Ivone")
+View(biometria)
+IMC(18)
+IMC<-function(imc)ifelse(imc<16, "Magreza grau III",
+ifelse(imc>=16&imc<17, "Magreza grau II",
+ifelse(imc>=17&imc<18.5, "Magreza grau I",
+ifelse(imc>=18.5&imc<25, "Adequado",
+ifelse(imc>=25$imc<30, "Pré-obeso",
+ifelse(imc>=30&imc<35, "Obesidade grau I",
+ifelse(imc>=35&imc<40, "Obesidade grau II",
+ifelse(imc>=40, "Obesidade grau III"))))))))
+IMC(18)
+IMC<-function(imc)ifelse(imc<16, "Magreza grau III",
+ifelse(imc>=16&imc<17, "Magreza grau II",
+ifelse(imc>=17&imc<18.5, "Magreza grau I",
+ifelse(imc>=18.5&imc<25, "Adequado",
+ifelse(imc>=25$imc<30, "Pré-obeso",
+IMC<-function(imc)ifelse(imc<16, "Magreza grau III",
+ifelse(imc>=16&imc<17, "Magreza grau II",
+ifelse(imc>=17&imc<18.5, "Magreza grau I",
+ifelse(imc>=18.5&imc<25, "Adequado",
+ifelse(imc>=25&imc<30, "Pré-obeso",
+ifelse(imc>=30&imc<35, "Obesidade grau I",
+ifelse(imc>=35&imc<40, "Obesidade grau II",
+ifelse(imc>=40, "Obesidade grau III"))))))))
+IMC(18)
+IMC(23)
+airquality<-airquality
+s <- split(airquality, airquality$Month)
+x <- c(rnorm(10), runif(10), rnorm(10,1))
+m<-matrix(rnorm(100), 10, 10)
+x<-sort(m[,1])
+y<-1:20
+ls<-list(m, x, y)
+ls
+ex1<-lapply(ls, mean) #lapply aplica uma funcao em uma lista e retorna uma lista
+ex1
+ex2<-sapply(ls, mean) #sapply retorna o objeto mais simples possivel
+ex2
+dt<-as.data.frame(m)
+View(dt)
+sapply(x, max)        #pode ser aplicado a data.frame
+??lapply
+x <- list(a=matrix(1:4,2,2), b=matrix(1:6,3,2))     #podemos definir a funcao
+x
+lapply(x, function(fusca) fusca[1,2]^3)
+lapply(x, function(fusca) fusca[1,]^3)
+lapply(x, function(fusca) fusca[1,]^3)
+lapply(x, function(fusca) fusca[1,]^3)
+lapply(x, function(fusca) fusca[,1]^3)
+x
+lapply(x, function(fusca) fusca^3)
+dt<-as.data.frame(m)
+View(dt)
+sapply(x, max)        #pode ser aplicado a data.frame
+dt<-as.data.frame(m)
+sapply(x, max)        #pode ser aplicado a data.frame
+sapply(dt, max)        #pode ser aplicado a data.frame
+lapply(dt,max)
+capply(dt,max)
+tapply(dt,max)
+sapply(dt,max)
+apply(dt,max)
+biometria
+sapply(biometria, biometria$altura*biometria$idade)
+sapply(biometria, max)
+sapply(biometria, function(x) x[,1]*x[,2])
+biometria[,1]
+biometria[,2]
+lista <- split(biometria)
+lista <- list(biometria[,1],biometria[,2],biometria[,3])
+sapply(biometria, function(x) x[,1]*x[,2])
+lista
+x$IMC <- c()
+biometria$IMC <- c()
+biometria$IMC <- c(1,2,3)
+biometria$IMC <- c(1,2,3)
+biometria$IMC <- c(1,2,3,4)
+list(biometria)
+biometria
+apply(biometria, 1, mean)
+apply(biometria, 2, mean)
+apply(biometria[,c(1,3)], 1, mean)
+apply(biometria[,c(1,3)], 1,)
+biometria
+biometria[,1]
+nrow(biometria)
+IMC<-function(x){
+x$IMC <- NULL
+for (i in 1:ncol(x)){
+idx <- x[i,3]^2/x[i,1]
+x$IMC <- x$IMC + c(idx)
+}
+x$classe<- function(imc)ifelse(imc<16, "Magreza grau III",
+ifelse(imc>=16&imc<17, "Magreza grau II",
+ifelse(imc>=17&imc<18.5, "Magreza grau I",
+ifelse(imc>=18.5&imc<25, "Adequado",
+ifelse(imc>=25&imc<30, "Pré-obeso",
+ifelse(imc>=30&imc<35, "Obesidade grau I",
+ifelse(imc>=35&imc<40, "Obesidade grau II",
+ifelse(imc>=40, "Obesidade grau III"))))))))
+#x$classe<-
+x
+}
+IMC(biometria)
+biometria[1,3]
+IMC<-function(x){
+x$IMC <- NULL
+for (i in 1:ncol(x)){
+idx <- x[i,3]/x[i,1]^2
+x$IMC <- x$IMC + c(idx)
+}
+x$classe<- function(imc)ifelse(imc<16, "Magreza grau III",
+ifelse(imc>=16&imc<17, "Magreza grau II",
+ifelse(imc>=17&imc<18.5, "Magreza grau I",
+ifelse(imc>=18.5&imc<25, "Adequado",
+ifelse(imc>=25&imc<30, "Pré-obeso",
+ifelse(imc>=30&imc<35, "Obesidade grau I",
+ifelse(imc>=35&imc<40, "Obesidade grau II",
+ifelse(imc>=40, "Obesidade grau III"))))))))
+#x$classe<-
+x
+}
+IMC(biometria)
+biometria$IMC <- NULL
+biometria$IMC <- c()
+View(biometria)
+biometria$IMC <- c(1)
+biometria$IMC <- c(2)
+biometria$IMC <- c(NA)
+biometria$IMC <- NA
+biometria$IMC <- NA
+biometria$IMC <- 1
+biometria$IMC <- NULL
+biometria$IMC <- NA
+IMC<-function(x){
+x$IMC <- NA
+for (i in 1:ncol(x)){
+idx <- x[i,3]/x[i,1]^2
+x$IMC <- x$IMC + c(idx)
+}
+x$classe<- function(imc)ifelse(imc<16, "Magreza grau III",
+ifelse(imc>=16&imc<17, "Magreza grau II",
+ifelse(imc>=17&imc<18.5, "Magreza grau I",
+ifelse(imc>=18.5&imc<25, "Adequado",
+ifelse(imc>=25&imc<30, "Pré-obeso",
+ifelse(imc>=30&imc<35, "Obesidade grau I",
+ifelse(imc>=35&imc<40, "Obesidade grau II",
+ifelse(imc>=40, "Obesidade grau III"))))))))
+#x$classe<-
+x
+}
+IMC(biometria)
+IMC<-function(x){
+calcimc = x$massa/x$altura^2
+x$IMC = calcimc
+x$classe<- sapply(x[,4], function(imc)ifelse(imc<16, "Magreza grau III",
+ifelse(imc>=16&imc<17, "Magreza grau II",
+ifelse(imc>=17&imc<18.5, "Magreza grau I",
+ifelse(imc>=18.5&imc<25, "Adequado",
+ifelse(imc>=25&imc<30, "Pré-obeso",
+ifelse(imc>=30&imc<35, "Obesidade grau I",
+ifelse(imc>=35&imc<40, "Obesidade grau II",
+ifelse(imc>=40, "Obesidade grau III")))))))))
+#x$classe<-
+x
+}
+IMC(biometria)
+for (i in 1:8){
+#eval(parse(text=paste('res <- nbinomTest(cds_total,"',conds[i],'", "',conds[i+1],'")',sep="", collapse = "")))
+#eval(parse(text=paste('write.csv(x=res, file = paste("res_","',conds[i],'","_","',conds[i+1],'",".csv",sep = ""))',sep="", collapse = "")))
+#rm(res)
+print(paste("res_",conds[i],"_",conds[i+1],'.csv',sep = ''))
+}
+library(Biobase)
+library(GEOquery)
+library(limma)
+gset <- getGEO("GSE60389", GSEMatrix =TRUE, AnnotGPL=TRUE)
+if (length(gset) > 1) idx <- grep("GPL1261", attr(gset, "names")) else idx <- 1
+gset <- gset[[idx]]
+library(Biobase)
+library(GEOquery)
+library(limma)
+gset <- getGEO("GSE60389", GSEMatrix =TRUE, AnnotGPL=TRUE)
+if (length(gset) > 1) idx <- grep("GPL1261", attr(gset, "names")) else idx <- 1
+gset <- gset[[idx]]
+ex <- exprs(gset)
+View(ex)
+qx <- as.numeric(quantile(ex, c(0., 0.25, 0.5, 0.75, 0.99, 1.0), na.rm=T))
+LogC <- (qx[5] > 100) ||
+(qx[6]-qx[1] > 50 && qx[2] > 0) ||
+(qx[2] > 0 && qx[2] < 1 && qx[4] > 1 && qx[4] < 2)
+sml <- paste("G", sml, sep="")    # set group names
+sel <- which(sml != "X")
+gsms <- "XXXX000XXXXXXXXXXXXXX111XXXXXXXXXX"
+sml <- c()
+for (i in 1:nchar(gsms)) { sml[i] <- substr(gsms,i,i) }
+sel <- which(sml != "X")
+sml <- sml[sel]
+design <- model.matrix(~ description + 0, gset)
+colnames(design) <- levels(fl)
+gsms <- "0000000000000000001111111111111111"
+sml <- c()
+for (i in 1:nchar(gsms)) { sml[i] <- substr(gsms,i,i) }
+sel <- which(sml != "X")
+sml <- sml[sel]
+gset <- gset[ ,sel]
+sml <- paste("G", sml, sep="")    # set group names
+fl <- as.factor(sml)
+gset$description <- fl
+design <- model.matrix(~ description + 0, gset)
+colnames(design) <- levels(fl)
+fit <- lmFit(gset, design)
+cont.matrix <- makeContrasts(G1-G0, levels=design)
+fit2 <- contrasts.fit(fit, cont.matrix)
+fit2 <- eBayes(fit2, 0.01)
+tT <- topTable(fit2, adjust="fdr", sort.by="B", number=250)
+View(tT)
+View(ex)
+View(tT)
+library(randomForest)
+source("https://bioconductor.org/biocLite.R")
+biocLite("randomForest")
+library(randomForest)
+library(gplots)
+expression_matix = "gene_matrix.dat" # input gene expression matrix
+expression_type = 1 # "1" for log2 expression (eg. log2TPM, log2FPKM, log2Counts);
+set.seed(1)
+write(format(Sys.time(), "%Y-%m-%d %I-%p"), "01.Report.txt", append = T)
+write(format(Sys.time(), "%Y-%m-%d %I-%p"), "log", append = T)
+write(paste(rep("#", 100), collapse = ""), "01.Report.txt")
+write(paste(rep("#", 100), collapse = ""), "log", append = T)
+write("### Clustering and Classification\n###\n### Version 1.1", "01.Report.txt", append = T)
+write("### Last updated, Mar 2016\n### Rizi Ai\n### riai@ucsd.edu\n### University of California San Diego", "01.Report.txt", append = T)
+write("### Clustering and Classification\n###\n### Version 1.1", "log", append = T)
+write("### Last updated, Mar 2016\n### Rizi Ai\n### riai@ucsd.edu\n### University of California San Diego", "log", append = T)
+write(paste(rep("#", 100), collapse = ""), "01.Report.txt", append = T)
+write(paste(rep("#", 100), collapse = ""), "log", append = T)
+print("... Running 0.Checking input gene expression matrix")
+write("... Running 0.Checking input gene expression matrix", "log", append = T)
+gene_mat <- as.matrix(read.table(expression_matix, row.names = 1))
+load("~/Documents/Doutorado/RNAseq/cortecon/Data/Cortecon_Base.RData")
+View(connect)
+View(DEseq.genes)
+head(connect)
+connect.gr<-graph.adjacency(connect,"undirected",weighted=TRUE,add.rownames=TRUE)
+library(GenomicFeatures)
+library(rtracklayer)
+library(Rsamtools)
+library(GenomicRanges)
+library(edgeR)
+library(Mfuzz)
+library(DESeq)
+library(DESeq2)
+library(org.Hs.eg.db)
+library(goseq)
+library(SPIA)
+library(ggplot2)
+library(GO.db)
+library(RColorBrewer)
+library(igraph)
+library(RCytoscape)
+library(foreach)
+library(parallel)
+library(multicore)
+library(doMC)
+connect.gr<-graph.adjacency(connect,"undirected",weighted=TRUE,add.rownames=TRUE)
+source("https://bioconductor.org/biocLite.R")
+biocLite("cummeRbund")
+library(cummeRbund)
+library(DESeq2)
+countsTable <- read.delim("Documents/Doutorado/RNAseq/project_RCTI/data/GSE60361_C1-3005-Expression.txt",header=TRUE)
+countsTable <- read.delim("Documents/Doutorado/RNAseq/project_RCTI/data/GSE70844_Fuzik_et_al_molcounts.xls",header=TRUE)
+countsTable <- read.csv("Documents/Doutorado/RNAseq/project_RCTI/data/GSE70844_Fuzik_et_al_molcounts.csv",header=TRUE)
+View(countsTable)
+View(countsTable)
+head(countsTable)
+rownames(countsTable) <- countsTable$gene
+countsTable <- countsTable[,-1]
+countsTable <- read.csv("Documents/Doutorado/RNAseq/project_RCTI/data/GSE70844_Fuzik_et_al_molcounts.csv",header=TRUE)
+rownames(countsTable) <- countsTable$X
+countsTable <- countsTable[,-1]
+cds <- newCountDataSet( countsTable)
+library(DESeq2)
+cds <- newCountDataSet( countsTable)
+directory <- "Documents/Doutorado/RNAseq/project_RCTI/data/GSE70844_Fuzik_et_al_molcounts.csv"
+ddsHTSeq<-DESeqDataSetFromHTSeqCount(sampleTable=countsTable, directory=directory)
+rep("A",3)
+condition <-rep("neuron",83)
+ddsHTSeq<-DESeqDataSetFromHTSeqCount(sampleTable=countsTable, directory=directory, design = condition )
+directory <- "Documents/Doutorado/RNAseq/project_RCTI/data/"
+ddsHTSeq<-DESeqDataSetFromHTSeqCount(sampleTable=countsTable, directory=directory, design = condition )
+sampleCondition <-rep("neuron",83)
+sampleTable <- data.frame(sampleName="GSE70844_Fuzik_et_al_molcounts.csv",fileName="GSE70844_Fuzik_et_al_molcounts.csv",condition=sampleCondition)
+View(sampleTable)
+sampleCondition <-rep("neuron",1)
+sampleTable <- data.frame(sampleName="GSE70844_Fuzik_et_al_molcounts.csv",fileName="GSE70844_Fuzik_et_al_molcounts.csv",condition=sampleCondition)
+ddsHTSeq<-DESeqDataSetFromHTSeqCount(sampleTable=sampleTable, directory=directory, design=~condition)
+View(sampleTable)
+View(countsTable)
+dds(countsTable)
+dds <- DESeq(countsTable)
+library("airway")
+install.packages(airway)
+install.packages("airway")
+countsTable <- read.csv("Documents/Doutorado/RNAseq/project_RCTI/data/GSE70844_Fuzik_et_al_molcounts.csv",header=TRUE)
+rownames(countsTable) <- countsTable$X
+countsTable <- countsTable[,-1]
+colnames(countsTable)
+colData <- data.frame(c("condition"))
+View(colData)
+colData <- data.frame("condition")
+View(colData)
+rep("neuron",83)
+colData$X.condition.<-rep("neuron",83)
+condition <- colData$X.condition.<-rep("neuron",83)
+condition <- rep("neuron",83)
+colData <- data.frame[,"condition"] <- condition
+View(data.frame)
+View(colData)
+colData <- data.frame(condition)
+View(colData)
+rownames(colData) <- colnames(countsTable)
+dds <- DESeqDataSetFromMatrix(countData = countsTable,
+colData = colData,
+design = ~ condition)
+dds <- DESeqDataSetFromMatrix(countData = countsTable,
+colData = colData,
+design = ~ 1)
+dds <- DESeq(dds)
+res <- results(dds)
+res
+summary(res)
+plotMA(res, main="DESeq2", ylim=c(-2,2))
+load(file = "cuffHF_CummeRbund.RData")
+gene.diff<-diffData(genes(cuff))
+library(cummeRbund)
+library(clusterProfiler)
+library(org.Mm.eg.db)
+gene.diff<-diffData(genes(cuff))
+gene.diff<-diffData(genes(cuff))
+diffData(genes(cuff))
+d<-dispersionPlot(genes(cuff))
+directory = "Documents/Doutorado/RNAseq/project_RCTI/cuffdiff/high_prefiltering/"
+load("~/Documents/Doutorado/RNAseq/project_RCTI/script/Project.RData")
+table(pData(HSMM)$type)
+library(monocle)
+library(reshape)
+qplot(value, geom="density", data=melted_dens_df) + stat_function(fun = dnorm, size=0.5, color="red") +
+xlab("Standardized log(FPKM)") +
+ylab("Density")
+pie <- ggplot(pData(HSMM), aes(x = factor(1), fill = factor(type))) +
+geom_bar(width = 1)
+pie + coord_polar(theta = "y") +
+theme(axis.title.x=element_blank(), axis.title.y=element_blank())
+plot_ordering_genes(HSMM)
+HSMM <- newCellDataSet(fpkm_matrix, phenoData = pd, featureData = fd)
+HSMM <- newCellDataSet(as(as.matrix(rpc_matrix), "sparseMatrix"),
+phenoData = pd,
+featureData = fd,
+lowerDetectionLimit=1,
+expressionFamily=negbinomial.size())
+HSMM <- estimateSizeFactors(HSMM)
+HSMM <- estimateDispersions(HSMM)
+HSMM <- detectGenes(HSMM, min_expr = 0.1)
+disp_table <- dispersionTable(HSMM)
+ordering_genes <- subset(disp_table,
+mean_expression >= 0.5 &
+dispersion_empirical >= 2 * dispersion_fit)$gene_id
+HSMM <- setOrderingFilter(HSMM, ordering_genes)
+plot_ordering_genes(HSMM)
+library(dplyr)
+data(GuoDeLorean)
+library(DeLorean)
+library(DeLorean)
+install.packages("DeLorean")
+install.packages("DeLorean")
+library(rstan)
+install.packages("rstan")
+install.packages('rstan', type = 'source', INSTALL_opts = "--merge-multiarch")
+install.packages('rstan')
+library(rstan)
+options(repos = c(getOption("repos"), rstan = "http://wiki.stan.googlecode.com/git/R"))
+install.packages('rstan', type = 'source')
+install.packages('rstan', type = 'source')
+install.packages('rstan')
+?import.gff3
+test_path <- system.file("tests", package = "rtracklayer")
+test_gff3 <- file.path(test_path, "genes.gff3")
+test <- import(test_gff3)
+test_gff3
+source("https://bioconductor.org/biocLite.R")
+biocLite("rtracklayer")
+library(rtracklayer)
+teste <- import("~/Documents/Doutorado/RNAseq/project_SCRNA_Rep/refs/mouseERCC/mmu_nochr.gff3")
+export(teste,"~/Documents/Doutorado/RNAseq/project_SCRNA_Rep/refs/mouseERCC/mmu_nochr.gtf","gtf")
+library(readODS)
+library(pheatmap)
+library(devtools)
+library(ggbiplot)
+library(gplots)
+library(rgl)
+setwd("~/Documents/Doutorado/NeuroCell/Jessica/")
+table <- data.frame(read.ods("Tab_final.ods",sheet = 1),stringsAsFactors = F)
+colnames(table) <- table[1,]
+table <- table[-1,]
+table[,c(2:33)] <- sapply(table[,c(2:33)], as.numeric)
+table_relative <- table
+table_relative[,c(2:33)] <- sapply(table_relative[,c(2:33)], function(x) 2^(x-38.868))
+table_missing <- table_relative
+table_missing[is.na(table_missing)] <- 0.5
+table_log2 <- table_missing
+table_log2[,c(2:33)] <- sapply(table_log2[,c(2:33)], log2)
+rownames(table_log2) <- table_log2[,1]
+table_log2[c(7:17),34] <- "Neurog2 + Sox2"
+table_log2[c(18:24),34] <- "Ascl1 + Sox2"
+table_auto <- table_log2
+table_auto[,c(2:33)] <- scale(table_auto[,c(2:33)],scale=T,center=T)
+table_center <- table_log2
+table_center[,c(2:33)] <- scale(table_center[,c(2:33)],scale=F,center=T)
+pc <- princomp(table_log2[cells,tf], cor = T, scores = T)
+tf <- c(4,11,23,27)
+fen <- c(2,10,18,22,26)
+pc <- princomp(table_log2[cells,tf], cor = T, scores = T)
+cells <- c(7:12,15:23)
+annotation_col <- table_log2[,c(1,34,35)]
+annotation_col[,1] <- NULL
+colnames(annotation_col) <- c("Plasmid","Morfologia")
+color <- colorRampPalette( c("green", "black", "red"), space="rgb")(64)
+Morfologia  <- c("navy", "purple")
+names(Morfologia) <- c("Fibroblastoide", "Neuronal")
+anno_colors <- list(Morfologia = Morfologia)
+pc <- princomp(table_log2[cells,tf], cor = T, scores = T)
+plot3d(pc$scores[,1:3],col = ir.species,type = "s",xlab = "PC1(44,9%)",ylab = "PC2(26,1%)",zlab = "PC3(22,3%)")
+ir.species <- factor(c(replicate(9,"green"),replicate(6,"blue"))) #annotation_col[cells,1])
+plot3d(pc$scores[,1:3],col = ir.species,type = "s",xlab = "PC1(44,9%)",ylab = "PC2(26,1%)",zlab = "PC3(22,3%)")
+ellips2 <- ellipse3d(pc$scores[,1:3],
+centre=c(mean(pc$scores[1:8,1]), mean(pc$scores[1:8,2]), mean(pc$scores[1:8,3])), level = 0.95)
+ellips3 <- ellipse3d(pc$scores[,1:3],
+centre=c(mean(pc$scores[9:15,1]), mean(pc$scores[9:15,2]), mean(pc$scores[9:15,3])), level = 0.95)
+plot3d(ellips2, col = "blue", alpha = 1, add = TRUE, box = FALSE,type = "wire")
+plot3d(ellips3, col = "green", alpha = 1, add = TRUE, box = FALSE,type = "wire")
+rgl.postscript("persp3dd.pdf","pdf")
